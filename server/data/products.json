@@ -1,0 +1,113 @@
+[
+    {
+      "namep": "Personalized letter-shaped keychain",
+      "price": "10dt",
+      "descriptionP": "A beautifully crafted personalized letter-shaped keychain.",
+      "imageUrl": "/assets/keychain1.jpg",
+      "category": "keychain"
+    },
+    {
+      "namep": "Personalized letter-shaped keychain",
+      "price": "10dt",
+      "descriptionP": "A unique keychain with a personalized letter design.",
+      "imageUrl": "/assets/keychain2.jpg",
+      "category": "keychain"
+    },
+    {
+      "namep": "Personalized letter-shaped keychain",
+      "price": "10dt",
+      "descriptionP": "An elegant letter-shaped keychain, perfect as a gift.",
+      "imageUrl": "/assets/keychain3.jpg",
+      "category": "keychain"
+    },
+    {
+      "namep": "Personalized letter-shaped keychain",
+      "price": "12dt",
+      "descriptionP": "A stylish letter-shaped keychain, available in various colors.",
+      "imageUrl": "/assets/keychain4.jpg",
+      "category": "keychain"
+    },
+    {
+      "namep": "Personalized letter-shaped keychain",
+      "price": "10dt",
+      "descriptionP": "Customize your keys with this unique letter-shaped keychain.",
+      "imageUrl": "/assets/keychain5.jpg",
+      "category": "keychain"
+    },
+    {
+      "namep": "Personalized letter-shaped keychain",
+      "price": "12dt",
+      "descriptionP": "A charming letter-shaped keychain, made with high-quality materials.",
+      "imageUrl": "/assets/keychain6.jpg",
+      "category": "keychain"
+    },
+    {
+      "namep": "Personalized keychain",
+      "price": "13dt",
+      "descriptionP": "A personalized keychain with a unique design.",
+      "imageUrl": "/assets/keychain7.jpg",
+      "category": "keychain"
+    },
+    {
+      "namep": "Personalized keychain",
+      "price": "13dt",
+      "descriptionP": "A custom-made keychain, perfect for any occasion.",
+      "imageUrl": "/assets/keychain8.jpg",
+      "category": "Keychain"
+    },{
+      "namep": "Personalized bookmark",
+      "price": "16dt",
+      "descriptionP": "A beautifully crafted personalized bookmark, perfect for any occasion.",
+      "imageUrl": "/assets/bookmark1.jpg",
+      "category": "bookmark"
+    },
+    {
+      "namep": "Personalized bookmark",
+      "price": "16dt",
+      "descriptionP": "A unique and custom-made personalized bookmark, perfect for any occasion.",
+      "imageUrl": "/assets/bookmark2.jpg",
+      "category": "bookmark"
+    },
+    {
+      "namep": "Personalized bookmark",
+      "price": "16dt",
+      "descriptionP": "An elegant and custom-made personalized bookmark, perfect for any occasion.",
+      "imageUrl": "/assets/bookmark3.jpg",
+      "category": "bookmark"
+    },
+    {
+      "namep": "Personalized Empty Pocket",
+      "price": "32dt",
+      "descriptionP": "An elegant and custom-made personalized empty pocket, perfect for storing small items.",
+      "imageUrl": "/assets/emptypocket1.jpg",
+      "category": "emptypocket"
+    },
+    {
+      "namep": "Personalized Empty Pocket",
+      "price": "22dt",
+      "descriptionP": "A stylish and personalized empty pocket, ideal for organizing your essentials.",
+      "imageUrl": "/assets/emptypocket2.jpg",
+      "category": "emptypocket"
+    },
+    {
+      "namep": "Personalized Pack",
+      "price": "27dt",
+      "descriptionP": "A stylish personalized pack containing a bookmark and a keychain, ideal for organizing your essentials.",
+      "imageUrl": "/assets/pack1.jpg",
+      "category": "pack"
+    },
+    {
+      "namep": "Personalized Pack",
+      "price": "36dt",
+      "descriptionP": "A stylish personalized pack containing a pen, a bookmark, and a keychain, ideal for organizing your essentials.",
+      "imageUrl": "/assets/pack2.jpg",
+      "category": "pack"
+    }
+  
+        
+      
+    
+    
+
+
+  ]
